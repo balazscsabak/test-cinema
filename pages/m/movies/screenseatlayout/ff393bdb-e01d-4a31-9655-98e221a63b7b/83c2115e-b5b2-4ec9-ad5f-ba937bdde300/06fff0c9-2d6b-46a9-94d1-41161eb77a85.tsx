@@ -9,7 +9,9 @@ const MyPage = () => {
           <Link href={"/m/close"}>CLOSE</Link>
         </div>
         <div className="mb-4 p-4 bg-slate-400 inline-block">
-          <Link href={"/m/success/123123123123123"}>SUCCESS</Link>
+          <Link href={"/m/success/b2470ded-3bde-47eb-ae3e-8813bd32b88c"}>
+            SUCCESS
+          </Link>
         </div>
       </div>
 
